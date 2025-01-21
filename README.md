@@ -1,4 +1,4 @@
-![Unit Test Passing Image](https://github.com/l2thet/learn-cicd-start/actions/workflows/ci.yml/badge.svg)
+![Unit Test Status](https://github.com/l2thet/learn-cicd-starter/actions/workflows/ci.yml/badge.svg)
 
 # learn-cicd-starter (Notely)
 
